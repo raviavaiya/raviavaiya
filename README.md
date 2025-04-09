@@ -1,8 +1,9 @@
 <h1 align="center">नमस्ते 🙏🏻, Hi there 👋 I am Ravi Avaiya!</h1>
-<img align="right" alt="Coding" width="400" src="https://en.sepoin.com/wp-content/uploads/2020/01/AI-ML-4.jpg">
----
+
+
 
 ### 🚀 About Me:
+<img align="right" alt="Coding" width="400" src="https://en.sepoin.com/wp-content/uploads/2020/01/AI-ML-4.jpg">
 - 🔭 I’m currently working on **AI/ML Projects**
 - 🌱 I’m currently learning **Python | FastAPI | LangChain | Prompt Engineering**
 - 💬 Ask me about **Python, AI, Data Science, Machine Lerning**
