@@ -13,31 +13,45 @@
 - ⚡ Fun fact: I love building communities and mentoring beginners!
 
 ---
+### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack:
-
+#### 👨‍💻 Languages
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
-  <!-- Frameworks -->
+---
+
+#### 🧱 Frameworks
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</p>
 
-  <!-- Libraries -->
+---
+
+#### 📚 Libraries
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
+</p>
 
-  <!-- Tools -->
+---
+
+#### ⚙️ Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png" alt="Postman" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/120249171?s=200&v=4" alt="Cursor" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
 
 ---
 
