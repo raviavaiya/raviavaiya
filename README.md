@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">नमस्ते 🙏🏻, Hi there 👋 I am Ravi Avaiya!</h1>
 
-<!--
-**raviavaiya/raviavaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on **AI/ML Projects**
+- 🌱 I’m currently learning **Python | FastAPI | LangChain | Prompt Engineering**
+- 💬 Ask me about **Python, AI, Data Science, Machine Lerning**
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/raviavaiya)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-green)](https://raviavaiya-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love building communities and mentoring beginners!
+
+---
+
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+---
+
+### 📊 GitHub Stats:
+![Ravi Avaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### ✨ Fun Animation:
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200"/>
+
