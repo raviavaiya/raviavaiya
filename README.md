@@ -33,9 +33,14 @@
 ---
 
 ### 🧠 LLM & AI Tools
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="OpenAI" width="40" /> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="100" /> <img src="https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/langchain-logo.png" alt="LangChain" width="100" /> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/vector_database_icon_248607.png" alt="Vector DB" width="40" /> </p>
 
-> 💡 Working with **RAG Pipelines**, **Custom LLM Apps**, **PDF Chatbots**, and more.
+- 🤖 OpenAI (ChatGPT, GPT-4)
+- 🔗 LangChain
+- 📄 RAG (Retrieval-Augmented Generation)
+- 🧠 Hugging Face Transformers
+- 📦 Vector DBs (FAISS, Chroma, Pinecone)
+
+> 💡 Working with **custom chatbots**, **RAG pipelines**, and **LLM-powered apps**.
 
 ---
 
