@@ -1,9 +1,7 @@
 <h1 align="center">नमस्ते 🙏🏻, Hi there 👋 I am Ravi Avaiya!</h1>
 
-<p align="center">
-  <img src="https://en.sepoin.com/wp-content/uploads/2020/01/AI-ML-4.jpg" width="400" alt="AI/ML Banner">
-</p>
 
+<img align="right" alt="Coding" width="400" src="https://en.sepoin.com/wp-content/uploads/2020/01/AI-ML-4.jpg">
 ## 🚀 About Me:
 
 - 🔭 I’m currently working on **AI/ML Projects**
